@@ -5,7 +5,7 @@ public class Main {
 		
 		System.out.println("java prog testing for jenkins");
 		System.out.println(new Date());
-
+		System.out.println(2+2);
 	}
 
 }
